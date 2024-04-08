@@ -41,6 +41,7 @@ You must run these commands on your server:
 <a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/interstellarnetwork/interstellar"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
 <a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/interstellarnetwork/interstellar"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 <a target="_blank" href="https://app.cyclic.sh/api/app/deploy/interstellarnetwork/Interstellar"><img alt="Deploy to Cyclic" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fbruhwhyamiso-templates%2FInterstellar-template?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbruhwhyamiso-templates%2FInterstellar-template.svg?type=shield"/></a>
 
 ### Deployment Alternatives
 
@@ -81,3 +82,7 @@ If you encounter problems, open an issue on GitHub, and we'll address it promptl
 A huge thank you to all of the people who have contributed to Interstellar.
 
 [![Contributors](https://contrib.rocks/image?repo=InterstellarNetwork/Interstellar)](https://github.com/InterstellarNetwork/Interstellar/graphs/contributors)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbruhwhyamiso-templates%2FInterstellar-template.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbruhwhyamiso-templates%2FInterstellar-template?ref=badge_large)
